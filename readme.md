@@ -78,7 +78,7 @@ The dataset used for this dashboard is **synthetically generated** to emulate re
 
 Developed by **Lucas Brito**  
 📧 Contact: sirbritolucas@gmail.com  
-🔗 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/lu-cas-brito)) · [GitHub](https://github.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/lu-cas-brito) · [GitHub](https://github.com/kikkask)
 
 ---
 
